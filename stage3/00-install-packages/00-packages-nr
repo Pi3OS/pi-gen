@@ -5,7 +5,7 @@ xserver-xorg-video-fbdev xserver-xorg xinit
 lxtask menu-xdg
 zenity xdg-utils
 gvfs-backends gvfs-fuse
-lightdm gnome-themes-extra-data #gnome-icon-theme
+lightdm #gnome-themes-extra-data #gnome-icon-theme
 gnome-keyring
 
 ## pi3os packages
